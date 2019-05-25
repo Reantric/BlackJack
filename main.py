@@ -1,4 +1,5 @@
 #UNDER CONSTRUCTION; NOT FINISHED
+#PLAY THE GAME HERE: https://repl.it/@GoogleAdmin/BlackJack
 
 from random import random, randint
 from time import sleep
